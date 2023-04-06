@@ -1,10 +1,12 @@
 .footer__item {
     display: inline;
+    margin: 0;
+    padding: 0;
 }
 
 @media screen and (max-width: 767px) {
     .footer__item {
         display: block;
         margin: 32px 0 0;
-    }    
+    }
 }
